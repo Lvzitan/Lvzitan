@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world! I am Daniel Francisco!<br><br>🖥️ Front-end Dev - UX/UI Designer!<br><br>🗺️ Currently living in Porto, Portugal
+Hello world! I am Daniel.<br><br>🖥️ Front-end Dev - UX/UI Designer!<br><br>🗺️ Currently living in Porto, Portugal
 
 
 ## 🌐 Socials:
